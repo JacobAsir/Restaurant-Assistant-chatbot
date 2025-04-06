@@ -1,0 +1,9 @@
+streamlit
+PIL
+requests
+langchian
+langchain_groq
+langchain_community
+langchain_openai
+crewai
+together
